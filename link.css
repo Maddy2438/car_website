@@ -179,3 +179,12 @@ padding: 0; }
   background-size: cover;
   position: relative;
 }
+
+body, html {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+.container-fluid.bg-dark {
+    padding: 0;
+}
